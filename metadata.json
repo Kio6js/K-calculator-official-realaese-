@@ -1,0 +1,6 @@
+{
+  "name": "K Calculator",
+  "description": "A luxury gold and titanium calculator featuring shiny circular buttons, scientific engine, history tape, and unit conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
